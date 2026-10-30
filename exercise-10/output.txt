@@ -1,0 +1,7 @@
+$ git add README.md
+$ git restore --staged README.md
+$ git diff
++Draft note
+$ git restore README.md
+$ git status
+nothing to commit, working tree clean
