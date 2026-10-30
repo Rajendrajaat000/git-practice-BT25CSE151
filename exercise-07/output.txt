@@ -1,0 +1,16 @@
+$ bash menu.sh
+Enter your choice [1-4]: 1
+Enter your name: Rajendra Manda
+Hello, Rajendra Manda! Have a great lab session.
+
+Enter your choice [1-4]: 2
+Enter first integer: 15
+Enter second integer: 27
+Result: 15 + 27 = 42
+
+Enter your choice [1-4]: 3
+Enter an integer: 8
+Result: 8 is EVEN.
+
+Enter your choice [1-4]: 4
+Exiting menu. Goodbye!
