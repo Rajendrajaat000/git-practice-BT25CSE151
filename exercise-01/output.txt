@@ -1,0 +1,8 @@
+$ git --version
+git version 2.54.0.windows.1
+$ git config user.name "Rajendra Manda"
+$ git config user.email "rajendramanda92@gmail.com"
+$ git config user.name
+Rajendra Manda
+$ git config user.email
+rajendramanda92@gmail.com
