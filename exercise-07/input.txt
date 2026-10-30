@@ -1,0 +1,5 @@
+Options tested:
+Option 1: Name: Rajendra Manda
+Option 2: 15, 27 -> Sum: 42
+Option 3: 8 -> EVEN
+Option 4: Exit
