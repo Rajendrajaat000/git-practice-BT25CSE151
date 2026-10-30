@@ -1,0 +1,6 @@
+$ git fetch origin
+$ git log --oneline main..origin/main
+7f81b23 Add CHANGELOG for lab exercises
+$ git pull --ff-only origin main
+Updating 4c92a10..7f81b23
+Fast-forward
