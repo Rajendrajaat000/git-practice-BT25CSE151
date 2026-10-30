@@ -1,0 +1,9 @@
+$ git add notes.txt
+$ git status --short
+A  exercise-04/notes.txt
+?? exercise-04/draft.txt
+$ git commit -m "Add notes.txt"
+$ git status --short
+?? exercise-04/draft.txt
+$ git add draft.txt
+$ git commit -m "Add draft.txt"
