@@ -1,0 +1,6 @@
+$ git switch -c feature/help
+$ git commit -m "Add help documentation for menu.sh"
+$ git switch main
+$ git merge --ff-only feature/help
+$ git branch -d feature/help
+Deleted branch feature/help (was a1b2c3d).

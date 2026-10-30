@@ -1,0 +1,5 @@
+Menu Script Documentation:
+- Option 1: Displays personalized greeting.
+- Option 2: Performs integer arithmetic sum.
+- Option 3: Modulo parity check (even/odd).
+- Option 4: Clean program termination.
