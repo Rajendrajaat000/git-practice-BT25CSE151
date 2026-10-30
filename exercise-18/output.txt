@@ -1,0 +1,8 @@
+$ git tag -a v1.0 -m "Release v1.0 - CSP 201 Lab Completed"
+$ git show v1.0
+tag v1.0
+Tagger: Rajendra Manda <rajendramanda92@gmail.com>
+
+Release v1.0 - CSP 201 Lab Completed
+$ git push origin v1.0
+* [new tag] v1.0 -> v1.0
