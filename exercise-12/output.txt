@@ -1,0 +1,7 @@
+$ git stash push -m "WIP README updates"
+Saved working directory and index state WIP README updates
+$ git stash list
+stash@{0}: On main: WIP README updates
+$ git stash pop
+Auto-merging README.md
+$ git commit -m "Document updates from stash"

@@ -1,0 +1,1 @@
+Clean working directory after applying stash.
