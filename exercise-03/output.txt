@@ -1,0 +1,7 @@
+$ bash greet.sh
+Enter your name: Rajendra Manda
+Hello, Rajendra Manda! Welcome to Git Lab.
+
+$ bash greet.sh
+Enter your name: 
+Hello, Stranger! Welcome to Git Lab.
