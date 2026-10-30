@@ -1,0 +1,10 @@
+$ git push origin main
+! [rejected] main -> main (fetch first)
+error: failed to push some refs
+hint: Updates were rejected because the remote contains work that you do not have locally.
+$ git fetch origin
+$ git merge origin/main
+$ git push origin main
+Total 10 (delta 4), reused 0 (delta 0)
+To https://github.com/Rajendrajaat000/git-practice-BT25CSE151.git
+   d91823a..6f41e0a  main -> main
