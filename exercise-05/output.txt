@@ -1,0 +1,7 @@
+$ git diff
++Unstaged revision line
+$ git diff --staged
++Staged revision line
+$ git diff HEAD
++Staged revision line
++Unstaged revision line

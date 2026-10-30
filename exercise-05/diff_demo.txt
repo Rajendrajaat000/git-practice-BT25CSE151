@@ -1,0 +1,4 @@
+Original line 1
+Original line 2
+Staged revision line
+Unstaged revision line
