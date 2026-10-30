@@ -1,0 +1,8 @@
+$ git commit -m "Add temporary feature"
+$ git revert --no-edit HEAD
+[main 4f12d8a] Revert "Add temporary feature"
+$ git log -2 --oneline
+4f12d8a Revert "Add temporary feature"
+3d91b2c Add temporary feature
+$ ls temporary.txt
+ls: cannot access 'temporary.txt': No such file or directory
