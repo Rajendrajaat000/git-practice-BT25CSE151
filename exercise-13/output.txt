@@ -1,0 +1,5 @@
+$ git remote add origin https://github.com/Rajendrajaat000/git-practice-BT25CSE151.git
+$ git push -u origin main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+$ git clone https://github.com/Rajendrajaat000/git-practice-BT25CSE151.git
+Cloning into 'git-practice-clone'...
