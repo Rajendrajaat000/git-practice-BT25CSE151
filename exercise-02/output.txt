@@ -1,0 +1,9 @@
+$ git init -b main
+Initialized empty Git repository
+$ git add README.md
+$ git commit -m "Initialize project with README"
+$ git status
+On branch main
+nothing to commit, working tree clean
+$ git log --oneline
+7f1a24d Initialize project with README
