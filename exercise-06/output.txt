@@ -1,0 +1,5 @@
+$ git check-ignore -v app.log temp.tmp build/output.bin .env
+.gitignore:1:*.log  app.log
+.gitignore:2:*.tmp  temp.tmp
+.gitignore:3:build/  build/output.bin
+.gitignore:4:.env  .env
