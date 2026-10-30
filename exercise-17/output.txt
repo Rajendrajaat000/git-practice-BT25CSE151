@@ -1,0 +1,5 @@
+Visual Studio Code Merge Editor:
+Resolved conflicting theme options to agreed hybrid.
+$ git commit -m "Resolve conflict in VS Code with agreed hybrid theme"
+$ git status
+nothing to commit, working tree clean
