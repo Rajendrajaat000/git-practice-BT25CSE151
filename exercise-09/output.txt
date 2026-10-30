@@ -1,0 +1,17 @@
+$ git merge feature/mode
+Auto-merging mode.txt
+CONFLICT (content): Merge conflict in mode.txt
+Automatic merge failed; fix conflicts and then commit the result.
+
+<<<<<<< HEAD
+Lab mode: classroom
+=======
+Lab mode: online
+>>>>>>> feature/mode
+
+$ printf "Lab mode: hybrid\n" > mode.txt
+$ git add mode.txt
+$ git commit -m "Merge mode changes with hybrid option"
+$ git status
+On branch main
+nothing to commit, working tree clean
