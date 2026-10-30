@@ -1,0 +1,4 @@
+$ git push -u origin feature/contributor-guide
+$ gh pr create --title "Add contribution guide"
+$ gh pr merge 1 --merge
+Merged pull request #1 successfully.
